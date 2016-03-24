@@ -1,3 +1,5 @@
+# Workstation ergonomics
+
 ## My setup
 
 [Demo video](https://twitter.com/edrex/status/691745384972980224)
@@ -50,7 +52,9 @@ I use OSX. Pretty much I try to drive with the keyboard as much as possible. Not
 
 ## Future sections
 
-### Exercises/stretching
+### Rules
+   - No couch computing!!!
+   - Breaks, exercise, stretching
 
 ### Resource links
 
